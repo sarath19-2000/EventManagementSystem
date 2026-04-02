@@ -1,7 +1,6 @@
 # EventManagementSystem
 Made it for a part of Coding Challenge for Mbition GMBH
 
-# Event Management System (C# CLI)
 
 This is a simple command-line based Event Management System developed in C#.  
 It allows users to create, manage, and organize events efficiently.
